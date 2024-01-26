@@ -1,7 +1,6 @@
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
-// Do know change anything in this file. You will not submit this file
-// Here we included the declaration of all functions you need
+
 
 
 // This is the Objective function which the implementation is in OF.c
